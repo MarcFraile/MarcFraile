@@ -2,7 +2,11 @@
 
 ## About Me
 
-I am a PhD candidate at Uppsala University, working on Computer Vision applied to Social Robotics. My project, "Explainable deep learning methods for human-human and human-robot interaction", aims to use modern end-to-end techniques to detect and analyse emotional alignment during social interactions. The long-term goal is to apply these findings to social robots, so we can improve their conversational skills.
+I recently obtained a PhD from Uppsala University (Sweden). My thesis, *"Computer Vision and Explainability in Human-Human and Human-Robot Interaction"*, investigated the applicability of end-to-end Deep Learning techniques to predict social behavior during guided play. In my research, I primarily coded in Python, using common ML libraries (PyTorch, pandas, NumPy, scikit-learn, pingouin, etc.)
+
+In a previous life, I was a backend developer at Klarna, building microservices in Java and related web technologies.
+
+In my free time, I enjoy programming in C. Just a code editor, the command line, and the standard library. Good times.
 
 ## Personal Website
 
